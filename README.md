@@ -1,3 +1,3 @@
 ## 📸 Output
 
-![Project Output](./output/output.png)
+![Project Output](./output/NetflixOutput.png)
