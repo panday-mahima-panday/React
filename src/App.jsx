@@ -8,9 +8,9 @@ export const App = () => {
   return (
     <section className="container">
       <h1 className="card-heading"> List of best Netflix Sereis</h1>
-      {/* <NetflixSeries /> */}
+      <NetflixSeries />
       {/* <EventProps/> */}
-      <EventPropagation/>
+      {/* <EventPropagation/> */}
     </section>
   );
 };
